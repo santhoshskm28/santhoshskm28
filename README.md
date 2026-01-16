@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **node.js , react advance**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at Portfoli
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on blog link
 
 - 💬 Ask me about **react.js , javascript , DOM , html5, css, tailwind**
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshskm28&show_icons=true&locale=en" alt="santhoshskm28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?"/></p>
+
