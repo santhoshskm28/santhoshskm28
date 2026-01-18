@@ -29,7 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee santhoshskm28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee santhoshskm28" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshskm28&show_icons=true&locale=en&layout=compact" alt="santhoshskm28" /></p>
 
 
 
