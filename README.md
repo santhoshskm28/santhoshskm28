@@ -1,4 +1,4 @@
-<h1 align="center"><morquee></morquee>Hi 👋, I'm Santhosh Kumar M</h1></morquee>
+<h1 align="center"><morquee>Hi 👋, I'm Santhosh Kumar M</h1></morquee>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshskm28&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshskm28" /> </p>
