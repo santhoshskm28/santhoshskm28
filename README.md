@@ -1,34 +1,140 @@
-<morquee><h1 align="center">Hi 👋, I'm Santhosh Kumar M</h1></morquee>
-<morquee><h3 align="center">A passionate frontend developer from India</h3></morquee>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshskm28&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshskm28" /> </p>
+# Hi 👋, I'm Santhosh Kumar M
 
-- 🔭 I’m currently working on **Orca-Studios**
+### 🚀 Full-Stack MERN Developer | React.js Enthusiast | AI-Driven Builder
 
-- 🌱 I’m currently learning **node.js , react advance**
+<img src="https://komarev.com/ghpvc/?username=santhoshskm28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-- 👨‍💻 All of my projects are available at Portfoli
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Passionate+about+AI+%26+Frontend+Engineering" />
 
-- 📝 I regularly write articles on blog link
+</div>
 
-- 💬 Ask me about **react.js , javascript , DOM , html5, css, tailwind**
+---
 
-- 📫 How to reach me **santhosh.skm.28@gmail.com**
+## 🌟 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c4jSw1KfXR-FwpxQ-3MMjeur1GTEpJWV/view?usp=drive_link](https://drive.google.com/file/d/1c4jSw1KfXR-FwpxQ-3MMjeur1GTEpJWV/view?usp=drive_link)
+- 🔭 Currently building **production-ready web applications**
+- 🌱 Learning **Advanced React.js, Next.js & AI Workflows**
+- 💡 Passionate about **Frontend Engineering & Scalable Systems**
+- 🚀 Built projects with **MERN Stack, JWT, Stripe, Docker & APIs**
+- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, Node.js**
+- 📫 Reach me at: **santhosh.skm.28@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real-world products
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhosh-kumar-m-3b4878209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhosh-kumar-m-3b4878209/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/_skm_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_skm_7/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🌐 Portfolio & Resume
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buy me a coffee santhoshskm28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee santhoshskm28" /></a></p><br><br>
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://orcastudios.netlify.app)
 
+[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1c4jSw1KfXR-FwpxQ-3MMjeur1GTEpJWV/view?usp=drive_link)
 
+</div>
 
+---
+
+# 🚀 Featured Projects
+
+## 🎓 GenAI Course Platform
+### Production Ready Learning Platform
+
+🔹 MERN Stack Application  
+🔹 JWT Authentication & RBAC  
+🔹 Stripe Payment Integration  
+🔹 Assessment System with Timer & Retry Logic  
+🔹 Docker + Railway Deployment  
+
+🌐 https://www.genaicourse.io/
+
+---
+
+## 🎨 Orca Studios
+### High Performance React SPA
+
+🔹 React.js + Tailwind CSS  
+🔹 Responsive UI/UX  
+🔹 Optimized Rendering  
+🔹 Client-side Routing  
+
+🌐 https://orcastudios.netlify.app/
+
+---
+
+## 🤖 AI Question Paper Generator
+
+🔹 React.js + Gemini API  
+🔹 AI-powered Dynamic Question Generation  
+🔹 Automated Difficulty-based Assessments  
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,docker,vscode,tailwind,bootstrap" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshskm28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshskm28&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshskm28&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santhosh-kumar-m-3b4878209/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/_skm_7/">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+<a href="mailto:santhosh.skm.28@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- ✅ Built and deployed production-ready MERN applications
+- ✅ Integrated Stripe Payments & Authentication Systems
+- ✅ Developed AI-powered applications using Gemini API
+- ✅ Experience with scalable frontend architectures
+- ✅ Strong understanding of REST APIs & Full-Stack Workflows
+
+---
+
+<div align="center">
+
+### ⭐ “Code. Build. Learn. Repeat.” ⭐
+
+</div>
