@@ -30,7 +30,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://orcastudios.netlify.app)
 
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1c4jSw1KfXR-FwpxQ-3MMjeur1GTEpJWV/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EfVdN3UUnu9ZVwg5U4cW4nhNIAkafywp/view?usp=drive_link)
 
 </div>
 
